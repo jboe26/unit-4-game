@@ -3,7 +3,7 @@ body {
         url("../images/force.jfif");
         background-repeat: no-repeat;
         background-size: cover; 
-        margin: auto;
+        margin: 80px;
         font-family: 'Star Jedi', arial;
 
 }
@@ -12,6 +12,7 @@ body {
     padding: 5px 5px 5px 5px;
     border: 5px solid green;
     text-align: center;
+    
 }
 
 .rpg { 
