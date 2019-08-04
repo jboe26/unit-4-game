@@ -4,7 +4,6 @@ body {
         background-repeat: no-repeat;
         background-size: cover; 
         margin: 80px;
-        font-family: 'Star Jedi', arial;
 }
 
 .characters {
@@ -12,10 +11,12 @@ body {
     border: 5px solid green;
     text-align: center;
     width: 200px;
+    background-color: #fff;
 }
 
 .rpg { 
     float: right;
+    margin: 20px;
 }
 
 span , img {
